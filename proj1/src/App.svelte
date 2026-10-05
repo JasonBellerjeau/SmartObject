@@ -28,10 +28,6 @@
       message = 'No foot detected. Lining stays deflated.';
       return;
     }
-    if (folded || !zipped) {
-      message = 'Fold the top up and zip it before tightening.';
-      return;
-    }
     message = 'Inflating...';
     run(() => (pressure = Math.min(SNUG, pressure + 2)) >= SNUG, () => (message = 'Snug fit reached.'));
   }
