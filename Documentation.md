@@ -40,7 +40,6 @@ These are my first sketches. Some of the ideas here are self-tying laces, a back
 
 ![Early sketches](images/image2.jpg)
 
-[10-plus-10 sketches, storyboard, and hybrid sketch if they are separate from the page above]
 
 ## User Needs
 
@@ -75,10 +74,6 @@ Two things came up more than once. Two of the three people brought up self-tying
 | The user needs to get the shoe off without untying anything | The heel button releases the air |
 | The user needs to know how tight the shoe is | Lights on the sole show how full the lining is |
 | The user shouldn't be able to put the shoe in a bad state | The shoe won't inflate unless a foot is in, the zipper is closed, and the top is up |
-
-### Feedback on the vanilla sketch
-
-[Feedback from the three people you showed the sketch to]
 
 ## Finalizing Ideas
 
