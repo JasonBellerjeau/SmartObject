@@ -21,6 +21,7 @@ The design uses these surfaces:
 - **Heel:** a pressable button that releases the air. The heel counter is also stiff, and it is the part people already grab when pulling a shoe off.
 - **Ankle:** an unzippable section that lets the high top fold down. Zippers are something people already know how to use without being told.
 - **Side of the sole:** a row of five lights that show how full the lining is. This is the one indicator on the shoe, and it sits where it can be seen by glancing down.
+By placing the 2 buttons at the toe and heel, it allows for the user to press the buttons by clicking or kicking, making the process hands free.
 
 ## What is a "smart shoe"
 
